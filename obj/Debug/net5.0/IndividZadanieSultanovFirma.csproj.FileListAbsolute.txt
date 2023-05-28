@@ -1,0 +1,16 @@
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.exe
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.deps.json
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.runtimeconfig.json
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.runtimeconfig.dev.json
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.dll
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\ref\IndividZadanieSultanovFirma.dll
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\bin\Debug\net5.0\IndividZadanieSultanovFirma.pdb
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.AssemblyInfoInputs.cache
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.AssemblyInfo.cs
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.dll
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\ref\IndividZadanieSultanovFirma.dll
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.pdb
+C:\Users\Vladik\source\repos\IndividZadanieSultanovFirma\obj\Debug\net5.0\IndividZadanieSultanovFirma.genruntimeconfig.cache
